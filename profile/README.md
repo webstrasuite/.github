@@ -13,6 +13,7 @@ Due to the nature and potential scale of this project, I spent some time thinkin
 ##### Microservice vs Monolith
 The age-old discussion. I've never been a massive fan of the microservice architecture as I have never had a good use case for it. Until now....
 
-This type of project is a good example of where I think it is very well suited. Mainly due to the fact that I want to have the ability to use various technologies or databses for the individual services so I can show off different skillsets while still using one form of authentication for all the services. 
+This type of project is a good example of where I think it is very well suited. Mainly due to the fact that I want to have the ability to use various technologies or databases for the individual services so I can show off different skillsets while still using one form of authentication for all the services and not restricting myself to one database technology or one programming language. 
 
-For example, if I want one of my services to be  URL shortner in Python that has its own MySQL database but also uses a Redis Cache for frequently used URL's, that can easily be built into the project regardless of what database or backend technologies are used for other services.
+For example, if I want one of my services to be URL shortner in Python that has its own MySQL database but also uses a Redis Cache for frequently used URL's, that can easily be built into the project regardless of what database or backend technologies are used for other services and I can still choose to have a different microservice built in Golang and another one running in Rust. It allows me a bit more flexibility to choose whatever tools & technologies I think are best suite for the service.
+It is essentially a best-of-breed-solution whilst still being a suite....
