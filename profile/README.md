@@ -1,10 +1,10 @@
-## What is Webstra Services?
+## What is Webstra Suite?
 Well, it's just an GithHub Organization that I have created to organize some of my personal (portfolio) projects into one application which will be hosted in Kubernetes.
 The idea was to have a few simple web applications which are  hosted in a single environment with one login for all applications.
 I hope it will become a nice little set of tools for myself (and others if they are interested in using them). Furthermore, the project doubles as a larger scale portfolio which I can use to show off some of my work.
 
 ## Can you use it?
-Absolutely. There will be a registration page and anyone can use the services in any way they see fit, though please do so **at your own risk**. I will always aim for code to be production-level and thoroughly tested, but this is and will always be a hobby project.
+Absolutely. There will be a registration page and anyone can use the suite in any way they see fit, though please do so **at your own risk**. I will always aim for code to be production-level and thoroughly tested, but this is and will always be a hobby project.
 
 *Everything you see is likely a work in progress and subject to change as this will be a long-term project which I work on in my spare time. If you have any suggestions feel free to let me know by opening up an issue in any of the various repositories.*
   
